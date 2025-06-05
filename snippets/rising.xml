@@ -8,7 +8,7 @@
           revision="refs/heads/fifteen" />
 
   <remote name="gitlab"
-          fetch="https://gitlab.com/kibria5/"
+          fetch="https://gitlab.com/RisingTechOSS/"
           sync-c="true"
           sync-j="4"
           revision="refs/heads/fifteen" />
